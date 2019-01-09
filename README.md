@@ -9,4 +9,4 @@ So far, here are the topics of interest:
 1. Programming (especially in C)
 1. Machine learning stuff (which kicked off this notebook thing to begin with)
 
-Hopefully this will be useful to me and others as the repository grows with notes! 
+Hopefully this will be useful to me and others as the repository grows with notes! Note this is a product of learning, not of teaching, so if anything is incorrect please let me know! 
