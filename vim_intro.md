@@ -1,4 +1,4 @@
-INTRODUCTION TO VIM
+# INTRODUCTION TO VIM
 
 Vim is a text editing tool (like emacs). It's used for workflow efficiency when programming.
 
@@ -19,6 +19,7 @@ Moving Commands:
  - $ : to end of line
  - 0 : to beginning of line
  - H M L : to high, middle, low positions
+ - shift + arrow : moves by entire words (same as w BUT IN EDITING MODE)
 
 Text editing: 
  - i : start editing mode

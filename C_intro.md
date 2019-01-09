@@ -1,4 +1,4 @@
-#NOTES FOR C (ahem, For Future Reference) 
+# NOTES FOR C (ahem, For Future Reference) 
 
 The workflow here is: write the program using vim, compile it, then run it. Let's take a look at the "hello world" C program: 
 
@@ -16,9 +16,7 @@ The workflow here is: write the program using vim, compile it, then run it. Let'
 
 I've included the line numbers for easy reference. 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Let's take apart what each line does.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Line 1 : Header**
 Allows us to access standard functions that come with the compiler. 
@@ -40,7 +38,7 @@ This is a function that reads in a single character that the user inputs. User m
 This is important because "it can be used to tell the OS whether the program succeeded." Apparently 0 means success. Hopefully this will make more sense in a bit.  
 
 
-COMPILING AND RUNNING A PROGRAM
+## COMPILING AND RUNNING A PROGRAM
 
 Wow this is important. Whenever we make a program (let's say the program name is myprogram.c) these are the steps to follow: 
 
