@@ -3,11 +3,10 @@ I'm a student studying applied math in university, who has recently found out ab
 
 ## Topics
 So far, here are the topics of interest:
-$$
+
 1. Computer fundamentals: shell, unix, etc.
 1. Workflow efficiency stuff like vim
 1. Programming (especially in C)
 1. Machine learning stuff (which kicked off this notebook thing to begin with)
-$$
 
 Hopefully this will be useful to me and others as the repository grows with notes! 
