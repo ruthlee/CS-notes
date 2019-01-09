@@ -7,9 +7,9 @@ I've heard the words "shell," "linux/unix," and "bash" bandied about. It's time 
 OPERATING SYSTEMS:
 On Macs, the operating system is the UNIX operating system which is made up of three parts: 
 
-	1) The kernel
-	2) The shell
-	3) The programs
+1) The kernel
+2) The shell
+3) The programs
 
 **THE KERNEL:**
  - allocates time/memory to programs and handles system calls.
