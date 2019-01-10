@@ -1,0 +1,1 @@
+When formatting math in markdown, go to [this](https://www.codecogs.com/latex/eqneditor.php) site, create an image, save it in this folder, and link it from the markdown. It's complicated, but it'll do for now. 
