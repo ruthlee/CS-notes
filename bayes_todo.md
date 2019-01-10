@@ -8,3 +8,5 @@
 
 General idea: Bayes Theorem gives us an idea about how accurate our hypothesis functions are: 
 
+![bayes](https://github.com/ruthlee/CS-notes/blob/master/math/bayes.gif)
+
