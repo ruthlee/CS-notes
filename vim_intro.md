@@ -1,6 +1,6 @@
 # INTRODUCTION TO VIM
 
-Vim is a text editing tool (like emacs). It's used for workflow efficiency when programming.
+Vim is a text editing tool (like emacs). It's used for workflow efficiency when programming. One of the features which I really enjoy about it is the fact that it separates moving and editing commands, which means that if you accidentally key in a "delete entire document" command while in view mode your stuff will remain intact. Also, unlike emacs, there's no need to remap the control key to anything so you can avoid the emacs pinkie :) 
 
 Note that you can combine moving and editing commands. For example, dw will delete a word, d$ will delete everything until the end of a line. 
 
@@ -32,6 +32,8 @@ Text editing:
  - yy : copy lines 
  - yw yW : copy tokens / words
  - p : paste the last thing you copied
+
+:syntax on : SYNTAX HIGHLIGHTING 
 
 These are the most important things. Will update as I learn more.  
 
