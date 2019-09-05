@@ -45,3 +45,4 @@ Wow this is important. Whenever we make a program (let's say the program name is
  1) Go to the directory of the program and type "gcc myprogram.c". This compiles your program. (thing to test: does anything go wrong if you compile two programs at once? What happens if you do that and run them at the same time?)
 
  2) Now we have to run the program by creating an executable. You can do do this by typing "./a.out" 
+
